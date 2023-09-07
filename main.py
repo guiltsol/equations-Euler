@@ -17,4 +17,4 @@ for a in range(1, 151):
                 if e ** 5 == int((a ** 5) + (b ** 5) + (c ** 5) + (d ** 5)):
                     print(a + b + c + d + e)
                     print('a =', a, 'b =', b, 'c =', c, 'd =', d, 'e =', e)
-                    print(a+b+c+d+e)
+                    
